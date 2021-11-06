@@ -1,0 +1,66 @@
+The main thread is running...
+The producer thread is starting...
+The processor thread is starting...
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+A new data received
+Waiting for a new data
+Push a new data
+The producer thread is stopping...
+A new data received
+The processor thread is stopping...
+Threads joined. Resulting sum: 20
