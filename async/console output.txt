@@ -1,0 +1,4 @@
+worker thread id: 12540
+args: 1 2 3
+a work is finished. sum: 6
+main thread id: 832
