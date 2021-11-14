@@ -1,0 +1,3 @@
+worker thread id: 4384
+a work is finished. sum: 16
+main thread id: 9868    
