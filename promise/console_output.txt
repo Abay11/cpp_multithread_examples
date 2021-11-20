@@ -1,0 +1,12 @@
+main thread id: 21896
+
+worker_0 is running. thread id: 18908
+worker_0 sum result: 88
+
+worker_1 is running. thread id: 22192
+worker_1 finished with an exception: MyError
+
+processor_1 is running and waiting. thread id: 1936
+processor_0 is running and waiting. thread id: 18004
+processor_1 is get value: 371
+processor_0 is get value: 371
